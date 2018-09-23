@@ -1,1 +1,3 @@
-# potions
+# Potions
+
+Preparing for potions
